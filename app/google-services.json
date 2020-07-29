@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "809595917754",
+    "firebase_url": "https://innovation-jumpitt.firebaseio.com",
+    "project_id": "innovation-jumpitt",
+    "storage_bucket": "innovation-jumpitt.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:809595917754:android:65211fa8062cc8232fb983",
+        "android_client_info": {
+          "package_name": "com.example.graphicsinnovation"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "809595917754-7jguej5qk9l8cgtloip8egcdi65an6s1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdhX9IWRe4atrA1bvcl2JVVaRvth_Ip5E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "809595917754-7jguej5qk9l8cgtloip8egcdi65an6s1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
